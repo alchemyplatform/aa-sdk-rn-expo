@@ -2,6 +2,8 @@
 
 This is a sample repo that used expo to get started and integrates with Account Kit
 
+<img width="434" alt="image" src="https://github.com/alchemyplatform/aa-sdk-rn-expo/assets/4642570/e0dab7bc-f980-46eb-966c-13be7e79bc15">
+
 ## How it was made
 
 1. First create a new expo project (we used `yarn`):
