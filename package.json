@@ -1,5 +1,5 @@
 {
-  "name": "aa-rn",
+  "name": "aa-rn-expo",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -9,10 +9,17 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~50.0.17",
-    "expo-status-bar": "~1.11.1",
+    "@alchemy/aa-accounts": "^3.12.0",
+    "@alchemy/aa-core": "^3.12.0",
+    "crypto-browserify": "^3.12.0",
+    "expo": "^51.0.0-preview.13",
+    "expo-status-bar": "~1.12.1",
+    "node-libs-react-native": "^1.2.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.74.1",
+    "react-native-get-random-values": "~1.11.0",
+    "stream-browserify": "^3.0.0",
+    "viem": "2.8.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
